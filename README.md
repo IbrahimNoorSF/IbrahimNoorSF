@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Ibrahim Noor Shafin aka - NooSF</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ibrahim Noor Shafin aka - NooSF</h1>
 <h3 align="center">a human, gamer, developer, and digital marketer :)</h3>
 <br>
 
