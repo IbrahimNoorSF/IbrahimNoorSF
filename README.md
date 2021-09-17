@@ -2,9 +2,9 @@
 <h3 align="center">a human, gamer, developer, and digital marketer :)</h3>
 <br>
 
-💬 Ask me about **html, css, bootstrap**
+💬 Ask me about **html, css, bootstrap, javascript**
 
-🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning **React**
 
 📫 Reach me at **ibrahimnoorsf@gmail.com**
 
