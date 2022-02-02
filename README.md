@@ -3,9 +3,9 @@
 <br>
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-💬 Ask me about **html, css, bootstrap, javascript**
+💬 Ask me about **html, css, bootstrap, javascript, react**
 
-🌱 I’m currently learning **React**
+🌱 I’m currently learning **mongodb**
 
 📫 Reach me at **ibrahimnoorsf@gmail.com**
 
